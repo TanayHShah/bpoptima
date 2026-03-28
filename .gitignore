@@ -2,6 +2,9 @@
 .env
 .env.local
 .env.*.local
+venv/
+.venv/
+env/
 
 # Python
 __pycache__/
